@@ -1,0 +1,7 @@
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\bin\Debug\Console2048.exe.config
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\bin\Debug\Console2048.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\bin\Debug\Console2048.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\obj\Debug\Console2048.csprojAssemblyReference.cache
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\obj\Debug\Console2048.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\obj\Debug\Console2048.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Console2048\obj\Debug\Console2048.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\25287\Desktop\study\unity\c#\Solution1\2048\bin\Debug\2048.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\25287\Desktop\study\unity\c#\Solution1\2048\obj\Debug\2048.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\2048\bin\Debug\2048.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\2048\obj\Debug\2048.exe

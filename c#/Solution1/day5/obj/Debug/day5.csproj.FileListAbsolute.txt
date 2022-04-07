@@ -1,0 +1,6 @@
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\bin\Debug\day5.exe.config
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\bin\Debug\day5.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\bin\Debug\day5.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\obj\Debug\day5.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\obj\Debug\day5.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day5\obj\Debug\day5.csprojAssemblyReference.cache

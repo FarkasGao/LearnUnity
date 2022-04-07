@@ -1,0 +1,6 @@
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\bin\Debug\day3.exe.config
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\bin\Debug\day3.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\bin\Debug\day3.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\obj\Debug\day3.csprojAssemblyReference.cache
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\obj\Debug\day3.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\day3\obj\Debug\day3.pdb

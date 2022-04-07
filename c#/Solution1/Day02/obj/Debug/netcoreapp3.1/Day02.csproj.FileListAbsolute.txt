@@ -1,0 +1,11 @@
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.exe
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.deps.json
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.runtimeconfig.json
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.runtimeconfig.dev.json
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.dll
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\bin\Debug\netcoreapp3.1\Day02.pdb
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\obj\Debug\netcoreapp3.1\Day02.csprojAssemblyReference.cache
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\obj\Debug\netcoreapp3.1\Day02.AssemblyInfoInputs.cache
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\obj\Debug\netcoreapp3.1\Day02.AssemblyInfo.cs
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\obj\Debug\netcoreapp3.1\Day02.dll
+C:\Users\25287\Desktop\study\unity\c#\Solution1\Day02\obj\Debug\netcoreapp3.1\Day02.pdb

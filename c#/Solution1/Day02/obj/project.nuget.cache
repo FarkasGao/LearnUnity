@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0xcvQtEBZkZqHi2LB3mERpIl0cozVPPXQ2jDb+D+A+HbpHShA2o8C18Vkx+znPLeuaczq8BbqEsejHPC0ebJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25287\\Desktop\\study\\Unity\\LearnUnity\\c#\\Solution1\\Day02\\Day02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25287\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\25287\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\25287\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\25287\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
